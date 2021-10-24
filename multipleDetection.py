@@ -1,7 +1,7 @@
 '''
 This program purpose is to find templates on the given image and use it to draw rectangles, circles or marks
 on the object wanted to find. The user must input the name and the extension of the image and the template desired
-plus the threshold that match better and the mode (rectangles, markers or circles).
+plus the threshold that match better and the mode (rectangles, markers or circles). Note that the image must be on the same directory as the program
 '''
 #Libraries imports
 import cv2 as cv
